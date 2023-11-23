@@ -1,11 +1,11 @@
-trajAll中包含了所有轨迹，以及其标签
+trajAll.csv contains all trajectories along with their labels.
 
-travelFinal中包含了各道路的属性
+travelFinal.csv contains attributes of various roads.
 
-travelCompress为聚合的子轨迹
+travelCompress.csv is aggregated sub-trajectories.
 
-resultAll-cpath为各轨迹投影至路网后的新表示
+resultAll-cpath.csv is the new representation of each trajectory projected onto the road network.
 
-adj_travelCompressFinal为子轨迹图的邻接矩阵
+adj_travelCompressFinal.csv is the adjacency matrix of the sub-trajectory graph.
 
-adj_travelFinal为路网图的邻接矩阵
+adj_travelFinal.csv is the adjacency matrix of the road network graph.
